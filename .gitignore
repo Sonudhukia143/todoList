@@ -1,9 +1,5 @@
-#operating files 
-Thumbs.db
-desktop.ini
 
-#editors configuration
-.vscode/
 
 node_modules/
 package-lock.json
+
